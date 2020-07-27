@@ -4,6 +4,14 @@
     margin: 0;
 }
 
+/*********************
+ * GROUPED SELECTORS *
+ *********************/
+
+ .content p, .benefits p, .footer p {
+    font-size: 16px;
+}
+
 /********
  * BODY *
  ********/
@@ -20,7 +28,7 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #fff;
 }
 
 header h1 {
@@ -50,7 +58,7 @@ header nav ul li {
 }
 
 header a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -77,13 +85,13 @@ header a {
     margin-left: 20px;   
 }
 
-.content div {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
 
 .content img {
@@ -120,9 +128,9 @@ header a {
     background-color: #2589bd;  
 }
 
-.benefits div {
+.benefits article {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .benefits h3 {
@@ -140,17 +148,15 @@ header a {
  * FOOTER *
  **********/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
-.content p, .benefits p, .footer p {
-    font-size: 16px;
-}
+
