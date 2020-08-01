@@ -4,4 +4,4 @@
  
  ![Screenshot](assets/images/screen-shot.png)
  
- Click here to visit page:  https://jeffwjohn.github.io/Challenge-1/
+ [Click here](https://jeffwjohn.github.io/Challenge-1/) to visit the Horiseon homepage at https://jeffwjohn.github.io/Challenge-1/.
