@@ -1,5 +1,6 @@
 # Challenge-1
 
+## Purpose
  This repository contains files required for completing Challenge-1 for the UT Web Development Bootcamp. The assignment involved writing HTML and CSS for a web services company homepage named "Horiseon." 
  
  ## Built With
