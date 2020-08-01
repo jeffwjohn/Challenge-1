@@ -4,4 +4,9 @@
  
  ![Screenshot](assets/images/screen-shot.png)
  
+ ## Website
  [Click here](https://jeffwjohn.github.io/Challenge-1/) to visit the Horiseon homepage at https://jeffwjohn.github.io/Challenge-1/.
+ 
+## Contribution
+Made with ❤️ by Jeff Johnston
+ 
